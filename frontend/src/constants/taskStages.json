@@ -1,0 +1,25 @@
+{
+    "data": {
+        "taskStages": {
+            "totalCount": 4,
+            "nodes": [
+                {
+                    "_id": "6631ef214998e2b499b5b5c6",
+                    "title": "TODO"
+                },
+                {
+                    "_id": "6631ef384998e2b499b5b5c8",
+                    "title": "IN PROGRESS"
+                },
+                {
+                    "_id": "6631ef454998e2b499b5b5ca",
+                    "title": "IN REVIEW"
+                },
+                {
+                    "_id": "6631ef4e4998e2b499b5b5cc",
+                    "title": "DONE"
+                }
+            ]
+        }
+    }
+}
